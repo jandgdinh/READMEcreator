@@ -4,7 +4,7 @@
 
 
   ## Description
-  This program will create a README.md for the user.
+  This program will create a README.md for the user. This used node.js and inquirer
 
   ## Table of Contents
   - [Installation](#installation)
@@ -15,20 +15,20 @@
   - [Questions](#questions)
 
   ## Installation
-  You must install inquirer. You can install inquirer with the command, npm i inquirer. After installing that command. You can run the program with npm start.
+  You can clone the repo through github. Then you must install node.js and inquirer for node.js
 
   ## Usage
-  You must go through the selected options. When done, a README.md will be created.
+  Type, npm start. After that, you must go through the selected options. When done, a README.md will be created.
 
   ## License
 
     This project is licensed under the MIT License. For more information, please visit https://opensource.org/licenses/MIT.
 
   ## Authors
-  Solo project
+  Myself
 
   ## Tests
-  If nothing is passed, return an empty string. 
+  If nothing is passed, return an empty string.
 
   ## Questions
-  If you have any questions, please open an issue or contact me directly at jandgdinh@gmail.com. You can find more of my work at [undefined](https://github.com/jandgdinh).
+  If you have any questions, please open an issue or contact me directly at jandgdinh@gmail.com. You can find more of my work at https://github.com/jandgdinh
