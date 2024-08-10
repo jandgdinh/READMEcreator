@@ -6,6 +6,9 @@
   ## Description
   This program will create a README.md for the user. This used node.js and inquirer
 
+  ## Link to video example of Project
+  https://drive.google.com/file/d/1qEqsrhGoWq1lmqcuZ0c-l_YAX7-bJfko/view?usp=sharing
+  
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
